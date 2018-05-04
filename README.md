@@ -1,0 +1,1 @@
+A simple repo to test TSLint's variable-name ban-keywords behaviour.
